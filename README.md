@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Hassene, currently a senior software engineering student at Esprit Private School of Computer Science, specializing in Game Design & Programming.
 <!--
 **ZarroukHassene/ZarroukHassene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
