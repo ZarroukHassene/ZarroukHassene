@@ -1,6 +1,7 @@
 ## Hi there 👋
 I'm Hassene, currently a senior software engineering student at Esprit Private School of Computer Science, specializing in Game Design & Programming.
 My hobbies are graphic design, video editing and enjoy writing fiction stories.
+This GitHub page is made for my Web dev projects. See my GitLab for my Game dev projects: https://gitlab.com/users/ZarroukHassene/projects
 <!--
 **ZarroukHassene/ZarroukHassene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
